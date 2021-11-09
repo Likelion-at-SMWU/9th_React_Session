@@ -39,10 +39,3 @@ function Users() {
   );
 }
 
-export default Users;
-
-//1. API 연동 기본
-//2. useReducer로 요청상태 관리하기
-//3. useAsync 커스텀 Hook 만들기
-//4. react-async로 요청상태 관리하기
-//5. Context와 함께 사용하기
